@@ -15,7 +15,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kekecatf&show_icons=true&theme=merko&locale=en" alt="kekecatf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kekecatf&show_icons=true&theme=merko&locale=en" alt="kekecatf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekecatf&theme=dark" alt="kekecatf" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kekecatf&show_icons=true&theme=radical&locale=en&layout=compact" alt="kekecatf" /></p>
