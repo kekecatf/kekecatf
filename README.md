@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atıf</h1>
 <h3 align="center">I'm interested in Game Development...</h3>
 
-<h3 align="center">- 🔭 I’m currently working on **Unreal Engine And Unity**  -</h3>
+<h3 align="center">- 🔭 I’m currently working on Unreal Engine And Unity  -</h3>
 
-<h3 align="center">- 📫 How to reach me **kekecatf@outlook.com**  -</h3>
+<h3 align="center">- 📫 How to reach me *kekecatf@outlook.com*  -</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
