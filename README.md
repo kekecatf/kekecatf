@@ -1,4 +1,3 @@
-[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Atıf</h1>
 <h3 align="center">I'm interested in game development</h3>
 
