@@ -3,7 +3,7 @@
 
 <h3 align="center">- 🔭 I’m currently working on Unreal Engine And Unity  -</h3>
 
-<h3 align="center">- 📫 How to reach me *kekecatf@outlook.com*  -</h3>
+<h3 align="center"> 📫 How to reach me:  kekecatf@outlook.com  </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
