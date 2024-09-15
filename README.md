@@ -3,7 +3,7 @@
 
 <h3 align="center">- 🔭 I’m currently working on Unreal Engine, Godot and Mobile App Development</h3>
 
-<h3 align="center">- 🌱 I’m currently learning Jetpack Compose And Unreal Engine</h3>
+<h3 align="center">- 🌱 I’m currently learning Godot And Unreal Engine</h3>
 
 <h3 align="center">- 📫 How to reach me **kekecatf@outlook.com**</h3>
 
